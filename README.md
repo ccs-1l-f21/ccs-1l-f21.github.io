@@ -4,7 +4,7 @@ CCS 1L F21 Repos:
 
 | Name | Project | Repo Link |
 |------|---------|------------|
-| Alex | Quantum AL | <https://github.com/ccs-1l-f21/Quantum-Simulator> |
+| Alex | Quantum AL | <https://github.com/ccs-1l-f21/Quantum_Simulator> |
 | Anikait | Quantum AM | <https://github.com/ccs-1l-f21/strongani-f21> |
 | Connor | CarCam |  <https://github.com/ccs-1l-f21/CCS-Car-Cam> |
 | Elijah | LED Installation | <https://github.com/ccs-1l-f21/Elijah-Frankle-F21> |
